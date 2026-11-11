@@ -8,7 +8,7 @@ SunoPull is an independent service and is not affiliated with Suno.
 
 Publish this skill in a public GitHub repository, then install it with the Skills CLI:
 
-    npx skills add OWNER/REPOSITORY --skill sunopull-download
+   npx skills add sunopull/suno-downloader-skill --skill sunopull-download
 
 Replace OWNER/REPOSITORY with the public GitHub owner and repository name.
 
