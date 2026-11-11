@@ -1,4 +1,4 @@
-# SunoPull Download Skill
+# Suno Download Skill
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Download one public Suno song from an AI agent and save the available original audio file to the local machine.
 
