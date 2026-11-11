@@ -10,7 +10,6 @@ Publish this skill in a public GitHub repository, then install it with the Skill
 
    npx skills add sunopull/suno-downloader-skill --skill sunopull-download
 
-Replace OWNER/REPOSITORY with the public GitHub owner and repository name.
 
 ## Use
 
